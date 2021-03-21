@@ -1,5 +1,5 @@
-using System;  //Using 关键字, System命名空间！
-namespace HelloWorldApplication //namespace声明命名空间,包含一个helloworld的类！
+using System;
+namespace HelloWorldApplication
 {
     class HelloWorld  
     {
